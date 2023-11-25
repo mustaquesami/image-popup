@@ -1,0 +1,5 @@
+@media (min-width:320px) and (max-width:775px){
+    .container .popup-image img {
+        width: 100%;
+    }
+}
